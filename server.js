@@ -25,6 +25,3 @@ t.on('error', function (err) {
 });
 
 t.track('accepted_by_launch')
-
-// 10 minutes later
-// t.untrack('pizza')
